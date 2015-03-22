@@ -1,0 +1,24 @@
+{
+  "name": "Excalibur",
+  "version": "1.0.0",
+  "description": "My first wordpress theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leachjustin18/wordpress-first-theme.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "theme",
+    "responsiviness"
+  ],
+  "author": "Justin Leach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leachjustin18/wordpress-first-theme/issues"
+  },
+  "homepage": "https://github.com/leachjustin18/wordpress-first-theme"
+}

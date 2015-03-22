@@ -1,14 +1,10 @@
 /******************************************************************
 Theme Name: Excalibur
-Description: This site was built using the Bones Development Theme. For more information about Bones or to view documentation, you can visit the <a href="https://github.com/eddiemachado/bones/issues" title="Bones Issues">Bones Issues</a> page on Github. You'll want to customize this for your clients with your own information.
+Description: This is built from inspiration of Bones and HTML5Reset wordpress themes.  Using front end engineering. 
 Author: Your Justin Leach
 Author URI: http://linkedin.com/justinLeach
 Version: 1
 Tags: fluid-layout, responsive-layout, accessibility-ready, translation-ready, microformats, rtl-language-support
-
-License: WTFPL
-License URI: http://sam.zoy.org/wtfpl/
-Are You Serious? Yes.
 
 
 MAKE SURE TO READ BELOW BEFORE GETTING STARTED FOR THE FIRST TIME!
@@ -20,7 +16,7 @@ WHOA, WHOA, WHOA…WHAT HAPPENED HERE?
 
 But before you freak out, let me take a few minutes to explain.
 
-Bones now uses Sass by default. If you prefer using regular CSS,
+Exclaibur uses Sass by default. If you prefer using regular CSS,
 then feel free to modify this theme how you like and keep a copy
 as your own personal starting point.
 
